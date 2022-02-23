@@ -1,0 +1,3 @@
+I got to spend all of yesterday (Saturday) learning Javascript and working on my blind training tools. Magnificently exciting and enjoyable, but there is SO much more to do, and I have this sort of restless, unchanneled energy inside me to keep working on the project. This in turn spawned a PHENOMENAL amount of anxiety during the night - because I know that today I am going to church, making banana pancakes, hanging out with Viv later, needing to shave. Do a whole bunch of things that aren't moving forward on my project, basically. Even now I feel that push to move forward. And frustration that I'm writing instead. 
+
+Perhaps bldLog would help me deal with this. (Although maybe I should also write a bldLog for my blind practice, such as it is?)
