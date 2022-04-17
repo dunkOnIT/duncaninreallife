@@ -6,6 +6,8 @@ At times like this, I'm tempted to just try and *grind* out work, but that leads
 
 Instead, I want to literally *focus* on work. Let me show up well, plan well, be focused on what I'm trying to achieve, and not waste time berating myself for not working better in the past. I'm in a fairly optimistic space at the moment which is quite nice, so hopefully I can carry that energy into tomorrow and just get focused work done on the Investor Database.
 
+One other thought relating to work: I'm struggling to get into flow state with some of the spreadsheet stuff - its too boring/monotonous, creating too much opportunity for me to just be anxious. I think doing something to increase the difficulty of it - perhaps trying to speedrun it? - would help me get through it faster, and in a more focused way.
+
 ## Why am I in an optimistic space?
 
 - Probably excited for the move to my parents
