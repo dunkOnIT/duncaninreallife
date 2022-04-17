@@ -15,3 +15,4 @@ Instead, I want to literally *focus* on work. Let me show up well, plan well, be
     - Just need to make sure that such a thought keeps its fairly low priority, that I don't let it take over!
 - Injuries/pain are borderline, but under control :)
 - Generally just feeling confident in myself at the moment. I think the long weekend and the pressure it removes have really helped there.
+- I've really enjoyed getting some better/more automated systems set up on Windows for launching different projects - ueli + batch files are awesome :) 
