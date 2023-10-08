@@ -1,13 +1,12 @@
 main:
-  - title: "Posts"
+
+sitemap: 
+  - title: "Homesteading"
+    url: /homesteading/
+    children:
+      - title: "Overview"
+        url: /homesteading
+      - title: "Plans & Possibilities"
+        url: /homesteading/plans-and-possibilities
+  - title: Blog
     url: /posts/
-  - title: "Fitness Goals" 
-    url: /fitness-goals/
-  - title: "ToDo"
-    url: /todo/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/

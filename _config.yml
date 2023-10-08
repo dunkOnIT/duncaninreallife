@@ -13,14 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: duncaninreallife
+title: DuncanInRealLife
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal blog for Duncan.
 #twitter_username: username
-github_username: TydVirTaal
+github_username: dunkOnIT
 minimal_mistakes_skin: dark
 search: true
 
@@ -60,7 +58,7 @@ plugins:
 author:
   name   : "Duncan Hobbs"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Anything I write here will sound obnoxious, but so does this."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -97,8 +95,10 @@ defaults:
       author_profile: false
       read_time: true
       comments: false
-      share: true
-      related: true
+      share: false
+      related: false
+      show_date: true
+      toc: true
   # _pages
   - scope:
       path: "_pages"
@@ -106,6 +106,20 @@ defaults:
     values:
       layout: single
       author_profile: false
+      toc: true
+      sidebar: 
+          nav: "sitemap"
+  # _homesteading
+  - scope:
+      path: "_homesteading"
+      type: homesteading
+    values:
+      layout: single
+      author_profile: false
+      toc: true
+      sidebar: 
+          nav: "sitemap"
+
 
 category_archive:
   type: liquid
@@ -113,3 +127,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  homesteading:
+    output: true
+    permalink: /:collction/:path
