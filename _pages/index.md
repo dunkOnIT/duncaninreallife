@@ -1,5 +1,5 @@
 ---
-title: My Homesteading Jourey
+title: 
 permalink: /
 layout: single
 author_profile: false
@@ -19,6 +19,8 @@ I want to become a good steward of land - someone who can help others to improve
 
 I'm an avid speedcuber, specializing in solving the Rubik's Cube blindfolded. I currently hold the African Record for "multiblind", with 25/30 cubes memorized and solved in an hour. I am also highly involved in the local speedcubing scene, acting as a competition organizer and the secretary of CubingZA.
 
+---
+
 # Skills
 - Basic mechanical skills (filter changes, bleeding/replacing brakes, water/radiator, working of a petrol engine)
 - Basic irrigation (installing Jojo tank, running/joining irrigation line, setting up drip line, connecting filters and pressure gauges, calculating head and catchment)
@@ -35,6 +37,8 @@ I'm an avid speedcuber, specializing in solving the Rubik's Cube blindfolded. I 
 - General computer-related stuff
 - Languages: College-level English, barely conversational Afrikaans, extreme beginner Xhosa
 
+---
+
 # What I want to learn
 - Hot composting
 - Working with larger livestock, especially cows
@@ -48,6 +52,8 @@ I'm an avid speedcuber, specializing in solving the Rubik's Cube blindfolded. I 
 - Earthworks for water management (building swales and especially dams)
 - Basic construction (eg carport)
 
+---
+
 # Influences
 
 These books have shaped my understanding of homesteading, the impact it can have, and the things I want to learn
@@ -55,6 +61,8 @@ These books have shaped my understanding of homesteading, the impact it can have
 - Regenerative Agriculture
 - Dirt to Soil
 - Towards a Small-Farm Future
+
+---
 
 # References
 
