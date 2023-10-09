@@ -1,8 +1,35 @@
 ---
 permalink: /about/
-title: "About"
+title: "Hi, I'm Duncan"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+{: .notice}
+> "I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived." - Henry David Thoreau
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Activities
+- [Aspiring homesteader](/homesteading)
+- Software developer
+- Speedcuber 
+
+## Philosophy 
+- Essentialism
+    - In how I spend my time 
+    - [In what I own](/defining-enough)
+    - In how I spend my money
+
+## Convictions
+- Belief in the God who ought to exist
+
+## Aspirations
+- Have a homestead in a Village
+
+## Inspirations
+
+- Beau Miles
+- Not-Amish Titus 
+- Unsung community heroes
+
+## Influences
+
+- Into the Wild
+- Farming for the Long Haul

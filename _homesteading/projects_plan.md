@@ -1,8 +1,8 @@
 # Spring 2023
 - Spring planting
 - Install Jojo tank and set up drip irrigation
-- Anti-erosion/water-pooling in the river
 - LOTS of tree propagation
+- Anti-erosion/water-pooling in the river
 - Potatoes in grow bags
 - Drip irrigation with Twist bottles
 
