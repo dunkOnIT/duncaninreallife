@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-# About Me 
-
 I'm a 28-year-old Capetonian. My day job is software development, which I'm using to fund my explorations into homesteading.
 
 ## My Vision
@@ -63,9 +61,3 @@ These books have shaped my understanding of homesteading, the impact it can have
 - Towards a Small-Farm Future
 
 ---
-
-# References
-
-If you're looking at this because I'm asking to come work on your property, it might help to chat to these people (contact me for their details): 
-- Person 1 
-- Person 2
