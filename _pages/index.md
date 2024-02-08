@@ -25,6 +25,7 @@ I'm an avid speedcuber, specializing in solving the Rubik's Cube blindfolded. I 
 - Basic care for laying flock (basically I'm comfortable with hens and roosters, laying vs brooding cycles, etc)
 - Very basic DIY skills (jigsaw, screws and nails - skilsaw is still scary)
 - Completed a Permaculture Design Course under Geoff Lawton (not much practical experience yet, but hopefully I know some of the right questions to ask)
+- Completed a 10-day Natural Building Course - particular interest (not expertise!) in passive solar design
 - _Very_ basic understanding of electrified fencing (was labour on setting up a permanent electrified fence, also currently using a static poultry fence)
 - Manual labour - I'm working on my stamina, I'd say I'm good for a consistent 2-4 hours of hard work (digging holes in the hot sun) a day at the moment
 
@@ -37,18 +38,21 @@ I'm an avid speedcuber, specializing in solving the Rubik's Cube blindfolded. I 
 
 ---
 
-# What I want to learn
-- Hot composting
-- Working with larger livestock, especially cows
-- Ostriches! 
-- Management of pastured meat chickens (including butchering)
-- Regenerative farming / cover cropping
-- Reforestation / Mark Sheppard-style regenerative farming
-- Tree propagation and grafting
-- Natural building
-- Watershed restoration/erosion gully control (rock dams, check-dams, catchment ponds etc)
-- Earthworks for water management (building swales and especially dams)
-- Basic construction (eg carport)
+# What I want to learn in 2024
+- [ ] Hot composting
+- [ ] Chainsaw
+- [ ] Working with larger livestock, especially cows
+- [ ] Ostriches! 
+- [ ] Management of pastured meat chickens (including butchering)
+- [ ] Regenerative farming / cover cropping
+- [ ] Reforestation / Mark Sheppard-style regenerative farming
+- [ ] Tree propagation and grafting
+- [ ] Natural building
+  - [x] Complete a natural building course
+  - [ ] Work/complete on a natural building project
+- [ ] Watershed restoration/erosion gully control (rock dams, check-dams, catchment ponds etc)
+- [ ] Earthworks for water management (building swales and especially dams)
+- [ ] Basic construction (eg carport)
 
 ---
 
